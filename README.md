@@ -8,7 +8,7 @@ In this data collection, we are particularly interested in addressing most of th
 
 ## uSearch 
 
-In order to facilitate the query report procedure, we developed uSearch, an Android app shown in figures below. As shown below, uSearch consists of three sections. The upper part lists all the apps that are installed on the phone, with the most used apps ranked higher. The participants were supposed to select the app in which they had done their real-life search (e.g., Facebook). In the second section, the participants were supposed to enter exactly the same query that they had entered in the target app. Finally, the lower part of the app, provided them easy access to a unique ID of their device and an online survey on their demographics and backgrounds.
+In order to facilitate the query report procedure, we developed an Android app called [uSearch](https://github.com/aliannejadi/usearch). The user interface of uSearch consists of three sections. The upper part lists all the apps that are installed on the phone, with the most used apps ranked higher. The participants were supposed to select the app in which they had done their real-life search (e.g., Facebook). In the second section, the participants were supposed to enter exactly the same query that they had entered in the target app. Finally, the lower part of the app, provided them easy access to a unique ID of their device and an online survey on their demographics and backgrounds.
 
 ## Method
 
